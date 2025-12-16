@@ -3,16 +3,23 @@
 </p>
 
 <!-- ================= HEADER ================= -->
-<h1 align="center">Debesh Saha</h1>
 <p align="center">
-  Computer Science Student • Focused on fundamentals & building usable things
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=42&pause=900&center=true&vCenter=true&width=650&lines=Hey+there!!;I'm+Debesh." />
 </p>
+
+<p align="center">
+  <b>Slowly replacing guesses with understanding.</b>
+</p>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.debesh)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_debesh2604)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mikey_2604)
 
 ---
 
 ## 👋 About Me
 
-I’m a Computer Science student who prefers **learning things properly** instead of rushing to look impressive.
+I’m a Developer who prefers **learning things properly** instead of rushing to look impressive.
 
 I enjoy:  
 - understanding how things work internally  
@@ -23,44 +30,54 @@ Still learning. Still refining. No shortcuts.
 
 ---
 
-## 🧰 Tech Stack
+## 💻 Tech Stack
 
-**Languages**  
+**Languages:**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py" height="32" />
 </p>
 
-**Frontend**  
+**Frontend:**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" height="32" />
 </p>
 
-**Backend & Tools**  
+**Backend:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vercel" height="32" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="32" />
+</p>
+
+**Tools:**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vite" height="32" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Debesh-Saha&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Debesh-Saha&hide_border=true&theme=tokyonight" height="160"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Debesh-Saha&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" /><br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Debesh-Saha&theme=tokyonight&hide_border=true" /><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debesh-Saha&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 
-## 🚧 Projects
+</div>
 
-I build often, but I showcase **selectively**.  
-Projects will appear here when they meet my own quality bar.
 
 ---
 
-## 🧠 Current Focus
+## 📂 Projects
 
-```txt
+```text
+I create often. I showcase only the ones worth noticing.
+```
+---
+
+## 🎯 Current Focus
+
+```text
 • Strengthening DSA fundamentals
-• Understanding systems beyond surface-level APIs
-• Writing cleaner, more intentional code
+• Turning ideas into usable projects
+• Writing code that’s clean, simple, and intentional
+```
