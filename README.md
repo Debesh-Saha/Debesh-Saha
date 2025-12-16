@@ -76,17 +76,10 @@ Still learning. Still refining. No shortcuts.
 
 ---
 
-## 📂 Projects
-
-```text
-I create often. I showcase only the ones worth noticing.
-```
----
-
 ## 🎯 Current Focus
 
 ```text
-• Strengthening DSA fundamentals
-• Turning ideas into usable projects
-• Writing code that’s clean, simple, and intentional
+• 🚀 Strengthening DSA fundamentals
+• 💡 Turning ideas into usable projects
+• ✨ Writing clean, intentional code
 ```
