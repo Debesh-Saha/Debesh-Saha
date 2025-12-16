@@ -3,8 +3,9 @@
 </p>
 
 <!-- ================= HEADER ================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=42&pause=900&center=true&vCenter=true&width=650&lines=Hey+there!!;I'm+Debesh." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=600&size=42&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Debesh.;" />
 </p>
 
 <p align="center">
