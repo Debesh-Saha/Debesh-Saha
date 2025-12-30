@@ -55,9 +55,9 @@ Still learning. Still refining. No shortcuts.
 
 <div align="center">
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=Debesh-Saha&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="readme stats" /></br>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Debesh-Saha&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=Debesh-Saha&theme=tokyonight&hide_border=true" /><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debesh-Saha&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<img width=420 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Debesh-Saha&count_private=true&theme=tokyonight&hide_border=true" alt="streak stats"/></br>
+<img width=420 src="https://github-readme-stats-salesp07.vercel.app/api?username=Debesh-Saha&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="readme stats" /></br>
+<img width=340 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Debesh-Saha&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
 
