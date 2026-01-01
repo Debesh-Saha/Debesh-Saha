@@ -55,8 +55,8 @@ Still learning. Still refining. No shortcuts.
 
 <div align="center">
 
-<img width=420 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Debesh-Saha&count_private=true&theme=tokyonight&hide_border=true" alt="streak stats"/></br>
-<img width=420 src="https://github-readme-stats-salesp07.vercel.app/api?username=Debesh-Saha&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="readme stats" /></br>
+<img width=420 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Debesh-Saha&timezone=Asia/Kolkata&cache_seconds=3600&theme=tokyonight&hide_border=true" alt="streak stats"/></br>
+<img width=420 src="https://github-readme-stats-salesp07.vercel.app/api?username=Debesh-Saha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="readme stats" /></br>
 <img width=340 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Debesh-Saha&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
 </div>
