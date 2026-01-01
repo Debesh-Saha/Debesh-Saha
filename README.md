@@ -41,7 +41,7 @@ Still learning. Still refining. No shortcuts.
 
 **Backend:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="32" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" height="32" />
 </p>
 
 **Tools:**  
