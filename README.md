@@ -46,7 +46,7 @@ Still learning. Still refining. No shortcuts.
 
 **Tools:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,vite,prisma" height="32" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vite,prisma" height="32" />
 </p>
 
 ---
