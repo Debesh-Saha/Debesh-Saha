@@ -36,7 +36,7 @@ Still learning. Still refining. No shortcuts.
 
 **Frontend:**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" height="32" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,next" height="32" />
 </p>
 
 **Backend:**  
